@@ -152,4 +152,3 @@ I bring a **blend of technical depth and leadership**:
 - Proven ability to **scale teams and systems**.  
 - Experience balancing **engineering, product, and business outcomes**.
 
-This portfolio reflects my journey as a **Staff-level engineer**: driving architecture, ensuring reliability at scale, mentoring engineers, and aligning systems with customer and business impact.
