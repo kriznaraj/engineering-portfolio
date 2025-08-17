@@ -1,2 +1,8 @@
 title: "Engineering Portfolio – Krishnaraj Venkatesan"
+description: "Backend, Distributed Systems & AI Portfolio"
 theme: jekyll-theme-cayman
+
+# Disable GitHub project button
+show_downloads: false
+github:
+  is_project_page: false
