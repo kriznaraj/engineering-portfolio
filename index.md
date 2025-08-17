@@ -1,6 +1,3 @@
-
-# Engineering Portfolio – Krishnaraj Venkatesan
-
 ## Introduction
 I’m a **Senior Lead Software Engineer at Chargebee** with 12+ years of experience spanning full-stack product development, distributed systems, and **GenAI-based platform architecture**. I build resilient infrastructure, intuitive developer tools, and intelligent systems that drive outcomes for global SaaS platforms.
 
