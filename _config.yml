@@ -1,8 +1,17 @@
 title: "Engineering Portfolio – Krishnaraj Venkatesan"
 description: "Backend, Distributed Systems & AI Portfolio"
-theme: jekyll-theme-cayman
+# Use a fully custom layout (no GitHub theme footer/button)
+theme: null
 
-# Disable GitHub project button
-show_downloads: false
-github:
-  is_project_page: false
+# Apply the custom layout to all Markdown pages by default
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Optional: nicer Markdown + kramdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
